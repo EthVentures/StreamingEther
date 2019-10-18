@@ -39,7 +39,7 @@ python-keystoneclient==3.11.0
 python-novaclient==2.27.0
 pythonwhois==2.4.3
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.1
 requests-file==1.4.2
 rfc3986==1.0.0
