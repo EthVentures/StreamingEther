@@ -15,7 +15,7 @@ idna==2.5
 impacket==0.9.15
 ipaddress==1.0.18
 iso8601==0.1.11
-Jinja2==2.9.6
+Jinja2==2.11.3
 keystoneauth1==2.21.0
 MarkupSafe==1.0
 monotonic==1.3
